@@ -1,0 +1,5 @@
+.venv
+kaggle.json
+.env
+__pycache__/
+.ipynb_checkpoints/
